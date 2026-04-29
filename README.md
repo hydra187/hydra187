@@ -1,42 +1,39 @@
-<!-- 🔥 TOP BANNER -->
+<!-- 🔥 HEADER -->
 
 <h1 align="center">Hi 👋, I'm Aridaman Singh</h1>
-<h3 align="center">🚀 Aspiring Full Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">💻 AI & Web Development Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%7C+Web+Development+%7C+Automation;Building+Real+World+Projects;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+%7C+Building+%7C+Improving;Exploring+AI+and+Web+Technologies;Turning+Ideas+into+Projects" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 💡 Strong foundation in **JavaScript & Web Development**
-* 🤖 Interested in **AI, Automation & SaaS Products**
-* 🌱 Currently learning **React, Backend & DSA**
-* ⚡ Fast learner & problem solver
+* 💡 Curious developer exploring **AI & Web Development**
+* 🌱 Currently learning **React, Backend & Data Structures**
+* 🧠 Interested in building **real-world problem-solving projects**
+* ⚡ Focused on improving skills through consistent practice
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages**
 `Python` `JavaScript`
 
-**Web Development:**
+**Web Development**
 `HTML` `CSS`
 
-**Tools & Technologies:**
-`React` `Node.js` `Express` `Git` `GitHub`
+**Tools & Technologies**
+`Git` `GitHub` `Node.js` `Express`
 
-**Design & AI Skills:**
+**Design & AI Skills**
 `UI/UX Design` `Prompt Engineering` `LLMs`
 
-**APIs & Integrations:**
-`REST APIs` `API Integration` `API Keys Handling`
-
-**Currently Learning:**
-`Data Structures` `Backend Development` `AI Workflows`
+**APIs & Integrations**
+`REST APIs` `API Integration`
 
 ---
 
@@ -44,9 +41,8 @@
 
 ### 🔹 Dynamic Pricing Simulator
 
-🚀 Simulates pricing strategies using demand, elasticity & competition
-📊 Visualizes revenue & inventory using charts
-⚙️ Built with **Node.js + Express + Chart.js**
+Simulates pricing strategies using demand, elasticity & competition
+Built with **Node.js, Express & Chart.js**
 
 👉 https://github.com/hydra187/Dynamic-Pricing-Simulator
 
@@ -54,15 +50,15 @@
 
 ### 🔹 SmartCity AI Dashboard
 
-🤖 AI-powered dashboard with chatbot & real-time APIs
-🌐 Clean UI with live data integration
+AI-powered dashboard with chatbot & real-time APIs
+Focused on clean UI and usability
 
 ---
 
 ### 🔹 Coffee Brewing Guide
 
-☕ Beginner-friendly website explaining coffee methods
-🎨 Focus on UI/UX & responsive design
+Simple and clean website explaining coffee methods
+Built using HTML & CSS
 
 ---
 

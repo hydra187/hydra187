@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman&perline=14" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs,express,mysql,git,github,vscode" alt="Tech Stack" />
   </a>
 </div>
 
